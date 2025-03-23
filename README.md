@@ -36,13 +36,6 @@ SystemOp es un simulador de terminal basado en la web desarrollado con **React**
 
 Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver la aplicación en acción.
 
-## Comandos Soportados
-
-- `ls` – Lista los archivos y directorios.
-- `cd` – Navega entre directorios.
-- `echo` – Imprime un mensaje en la terminal.
-- `help` – Muestra los comandos disponibles.
-
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Para colaborar:
